@@ -32,5 +32,9 @@ class Employee:
 # the practice viewing the help()
 help('python_help_ex')
 help('python_help_ex.add')
-help('python_help_ex.add')
-
+help('python_help_ex.Employee')
+help('python_help_ex.Employee.__init__')
+# Python help() function is very helpful to get details
+# about modules, classes, functions. it's always best 
+# practice to define docstring for the custom classes
+# and functions to explain their usage
